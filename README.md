@@ -22,7 +22,6 @@
 </pre>
 <h1 align="center">Hi 👋, It's Anand Kamble</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlyc2lmenRxZzllbGJ0czR3YWV2enBhamhqdGhnbnUyYzdtcGV4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif">
 
 - 🔭 I’m currently working on **Fintech WebAPP**
 
